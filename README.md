@@ -1,16 +1,25 @@
-### Hi there 👋
+<p align="center">
+  <h3 align="center">Hi there 👋, I'm Abdullah</h3>
+</p>
+<p align="center">
+  <h4 align="center">I'm a computer engineer and working as a full-stack developer</h4>
+</p>
+<p align="center">
+    <a href="https://titu.github.io">About Me</a>
+    ·
+    <a href="mailto:email.to.titu@gmail.com">Email</a>
+    ·
+    <a href="https://linkedin.com/in/aamohammad/">LinkedIn</a>
+    ·
+    <a href="https://www.upwork.com/freelancers/~0186323f22fd23c908">Hire Me</a>
+</p>
 
 <!--
 **titu/titu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on **[Paleo](https://axel-arigato.paleo-store.com/public/store)**
+- 👯 I’m looking to collaborate on JavaScript and TypeScript
+- 💬 Ask me about React, Vue, Angular and Node.js
+- 📫 Reach me directly any time by email at email.to.titu@gmail.com
