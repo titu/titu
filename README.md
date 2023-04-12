@@ -19,7 +19,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on **[Paleo](https://axel-arigato.paleo-store.com/public/store)**
+- 🔭 I’m currently working on **[SlideCamp](https://www.slidecamp.io)**
 - 👯 I’m looking to collaborate on JavaScript and TypeScript
 - 💬 Ask me about React, Vue, Angular and Node.js
 - 📫 Reach me directly any time by email at email.to.titu@gmail.com
